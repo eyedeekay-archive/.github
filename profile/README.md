@@ -2,7 +2,7 @@
 
 ## Background
 
-I previously maintained over 1,100 repositories at [github.com/eyedeekay](https://github.com/eyedeekay), which became unmanageable for several reasons:
+I previously had over 1,100 repositories at [github.com/eyedeekay](https://github.com/eyedeekay), which became unmanageable for several reasons:
 
 - Too many projects to reasonably maintain
 - Degraded GitHub user experience due to repository volume
